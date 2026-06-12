@@ -18,3 +18,4 @@ A smart parking system developed using Arduino to automate vehicle counting and 
 
 ## My Contribution
 I designed, programmed, assembled, and tested the system.
+![image alt](https://github.com/chisambiranken-sudo/RankenChisambiProjects/blob/main/Smart-Car-Parking-System/1736623782869.jpeg) 
