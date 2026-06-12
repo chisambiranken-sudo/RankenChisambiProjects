@@ -46,5 +46,5 @@ Prototype Developed
 - Biomedical Device Design
 - Project Planning
 - Technical Communication
-  ![image alt]() 
+  ![image alt](https://github.com/chisambiranken-sudo/RankenChisambiProjects/blob/main/Low-Cost-Compression-Therapy-Device/WhatsApp%20Image%202026-04-11%20at%202.35.33%20PM.jpeg) 
   
