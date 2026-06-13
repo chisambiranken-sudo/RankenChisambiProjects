@@ -52,5 +52,5 @@ I participated in the design, assembly, programming, testing, and evaluation of 
 ## Project Status
 
 Working Prototype Developed
-![image alt]() 
+![image alt](https://github.com/chisambiranken-sudo/RankenChisambiProjects/blob/main/Smart-Neo-Baby-Incubator/20250720_172107.jpg?raw=true) 
   
