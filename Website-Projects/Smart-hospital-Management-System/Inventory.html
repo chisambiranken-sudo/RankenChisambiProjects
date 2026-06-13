@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inventory</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Equipment Inventory</h1>
+    <nav>
+        <a href="index.html">Dashboard</a>
+        <a href="inventory.html">Inventory</a>
+        <a href="maintenance.html">Maintenance</a>
+    </nav>
+</header>
+
+<section class="form-section">
+
+    <h2>Add New Equipment</h2>
+
+    <input type="text" id="name" placeholder="Equipment Name">
+    <input type="text" id="department" placeholder="Department">
+    <select id="status">
+        <option value="Active">Active</option>
+        <option value="Maintenance">Maintenance</option>
+    </select>
+
+    <button onclick="addEquipment()">Add Equipment</button>
+</section>
+
+<section class="table-section">
+    <h2>Equipment List</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody id="equipmentTable"></tbody>
+    </table>
+</section>
+
+<script src="app.js"></script>
+</body>
+</html>
